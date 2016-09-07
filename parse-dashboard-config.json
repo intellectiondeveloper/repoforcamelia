@@ -1,11 +1,13 @@
 {
   "apps": [
-    {
-      "serverURL": "https://testappforcamelia.herokuapp.com/",
-      "appId": "AppIDForCamelia",
-      "masterKey": "MasterKeyForCamelia",
-      "appName": "testappforcamelia"
-    }
+     {
+      "serverURL": "https://api.parse.com/1", // For an app still hosted on Parse.com
+      "appId": "UbIRn5aNgoa3SCJLBcdIEbZlo8vCzu7XU88LgQP7",
+      "javascriptKey": "OUHMtxj5hmDCMyekB0rusvKir8LKiFPP4171wqvL",
+      "restKey": "HjTJkTSlmqyxQrnhF7IDTJlywehMFXRKIesR3sOT",
+      "appName": "Camelia App",
+      "production": true
+   } 
   ],
   "users": [
     {
